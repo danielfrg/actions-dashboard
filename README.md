@@ -1,4 +1,6 @@
-# actions-dashboard
+# My GitHub actions dashboard
+
+## Libraries
 
 | Project | Actions | Package | 
 | ------------- | ------------- | ------------- |
