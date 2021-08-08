@@ -23,8 +23,8 @@
 
 ## Websites
 
-| Website | Actions |
-| --- | --- |
-| [danielfrg.com](https://github.com/danielfrg/danielfrg.com) | [![build](https://github.com/danielfrg/danielfrg.com/workflows/deploy/badge.svg)](https://github.com/danielfrg/danielfrg.com/actions/workflows/deploy.yml) |
-| [docs.extrapolations.dev](https://github.com/danielfrg/docs.extrapolations.dev) | [![build](https://github.com/danielfrg/docs.extrapolations.dev/workflows/deploy/badge.svg)](https://github.com/danielfrg/docs.extrapolations.dev/actions/workflows/deploy.yml) |
-| [extrapolaciones.com](https://github.com/danielfrg/extrapolaciones.com) | [![build](https://github.com/danielfrg/extrapolaciones.com/workflows/deploy/badge.svg)](https://github.com/danielfrg/extrapolaciones.com/actions/workflows/deploy.yml) | 
+| Website | Actions | Link |
+| --- | --- | --- |
+| [danielfrg.com](https://github.com/danielfrg/danielfrg.com) | [![build](https://github.com/danielfrg/danielfrg.com/workflows/deploy/badge.svg)](https://github.com/danielfrg/danielfrg.com/actions/workflows/deploy.yml) | [danielfrg.com](https://danielfrg.com) |
+| [docs.extrapolations.dev](https://github.com/danielfrg/docs.extrapolations.dev) | [![build](https://github.com/danielfrg/docs.extrapolations.dev/workflows/deploy/badge.svg)](https://github.com/danielfrg/docs.extrapolations.dev/actions/workflows/deploy.yml) | [docs.extrapolations.dev](https://docs.extrapolations.dev) |
+| [extrapolaciones.com](https://github.com/danielfrg/extrapolaciones.com) | [![build](https://github.com/danielfrg/extrapolaciones.com/workflows/deploy/badge.svg)](https://github.com/danielfrg/extrapolaciones.com/actions/workflows/deploy.yml) | [>](https://extrapolaciones.com) |
