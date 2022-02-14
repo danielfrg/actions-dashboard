@@ -1,0 +1,25 @@
+name: artifact-cleanup
+
+on:
+  workflow_dispatch:
+    inputs:
+      repository:
+        description: "Repository name"
+        default: "jupyter-flex"
+        required: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-20.04
+
+    steps:
+      - uses: actions/checkout@v2
+      - run: git fetch --prune --unshallow
+
+      - name: Artifact Cleanup
+        uses: jimschubert/delete-artifacts-action@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.event.inputs.repository }}
+          log_level: "error"
+          min_bytes: "0"
