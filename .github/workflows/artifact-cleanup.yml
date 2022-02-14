@@ -6,11 +6,11 @@ on:
       repository:
         description: "Repository name"
         default: "danielfrg/jupyter-flex"
-        required: true
+        required: false
       min_bytes:
         description: "Target file size"
-        required: true
         default: "0"
+        required: false
 
 jobs:
   deploy:
