@@ -5,8 +5,12 @@ on:
     inputs:
       repository:
         description: "Repository name"
-        default: "jupyter-flex"
+        default: "danielfrg/jupyter-flex"
         required: true
+      min_bytes:
+        description: "Target file size"
+        required: true
+        default: "0"
 
 jobs:
   deploy:
@@ -21,5 +25,5 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.event.inputs.repository }}
+          min_bytes: ${{ github.event.inputs.min_bytes }}
           log_level: "error"
-          min_bytes: "0"
