@@ -26,5 +26,5 @@
 | Website | Actions | Website |
 | --- | --- | --- |
 | [danielfrg.com](https://github.com/danielfrg/danielfrg.com) | [![build](https://github.com/danielfrg/danielfrg.com/workflows/deploy/badge.svg)](https://github.com/danielfrg/danielfrg.com/actions/workflows/deploy.yml) | [↗](https://danielfrg.com) |
-| [docs.extrapolations.dev](https://github.com/danielfrg/docs.extrapolations.dev) | [![build](https://github.com/danielfrg/docs.extrapolations.dev/workflows/deploy/badge.svg)](https://github.com/danielfrg/docs.extrapolations.dev/actions/workflows/deploy.yml) | [↗](https://docs.extrapolations.dev) |
+| [docs.extrapolations.dev](https://github.com/danielfrg/docs.extrapolations.dev) | [![build](https://github.com/extrapolations/extrapolations.dev/workflows/deploy/badge.svg)](https://github.com/danielfrg/extrapolations.dev/actions/workflows/deploy.yml) | [↗](https://extrapolations.dev) |
 | [extrapolaciones.com](https://github.com/danielfrg/extrapolaciones.com) | [![build](https://github.com/danielfrg/extrapolaciones.com/workflows/deploy/badge.svg)](https://github.com/danielfrg/extrapolaciones.com/actions/workflows/deploy.yml) | [↗](https://extrapolaciones.com) |
