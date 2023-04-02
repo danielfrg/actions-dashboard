@@ -17,7 +17,6 @@
 | App | Actions | Website |
 | --- | --- | --- |
 | [nbviewer.js](https://github.com/danielfrg/nbviewer.js) | [![build](https://github.com/danielfrg/nbviewer.js/workflows/deploy/badge.svg)](https://github.com/danielfrg/nbviewer.js/actions/workflows/deploy.yml) | [↗](https://nbviewer.danielfrg.com) |
-| [demucs-app](https://github.com/danielfrg/demucs-app) | [![build](https://github.com/danielfrg/demucs-app/workflows/deploy/badge.svg)](https://github.com/danielfrg/demucs-app/actions/workflows/deploy.yml) | [↗](https://demucs.danielfrg.com) |
 | [word2vec-app](https://github.com/danielfrg/word2vec-app) | [![build](https://github.com/danielfrg/word2vec-app/workflows/deploy/badge.svg)](https://github.com/danielfrg/word2vec-app/actions/workflows/deploy.yml)|  [↗](https://word2vec.danielfrg.com) |
 
 ## Websites
