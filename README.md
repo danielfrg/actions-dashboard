@@ -15,7 +15,6 @@
 | --- | --- | --- |
 | [danielfrg.com](https://github.com/danielfrg/danielfrg.com) | [![build](https://github.com/danielfrg/danielfrg.com/workflows/deploy/badge.svg)](https://github.com/danielfrg/danielfrg.com/actions/workflows/deploy.yml) | [↗](https://danielfrg.com) |
 | [cloud.danielfrg.com](https://github.com/danielfrg/cloud.danielfrg.com) | [![build](https://github.com/danielfrg/cloud.danielfrg.com/workflows/deploy/badge.svg)](https://github.com/danielfrg/cloud.danielfrg.com/actions/workflows/deploy.yml) | [↗](https://cloud.danielfrg.com) |
-| [ads.danielfrg.com](https://github.com/danielfrg/ads.danielfrg.com) | [![build](https://github.com/danielfrg/ads.danielfrg.com/workflows/deploy/badge.svg)](https://github.com/danielfrg/ads.danielfrg.com/actions/workflows/deploy.yml) | [↗](https://ads.danielfrg.com) |
 
 ## Other
 
