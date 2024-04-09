@@ -13,7 +13,6 @@
 
 | Project | Actions |
 | --- | --- |
-| [buildkite-images](https://github.com/danielfrg/buildkite-images) | [![build](https://github.com/danielfrg/buildkite-images/workflows/images/badge.svg)](https://github.com/danielfrg/buildkite-images/actions/workflows/images.yml) [![Build status](https://badge.buildkite.com/7c64239ddf27432d723a44c61516eaeb3235a5e38d616be943.svg)](https://buildkite.com/danielfrg/buildkite-images-test) |
 | [github-archive](https://github.com/danielfrg/github-archive) | [![build](https://github.com/danielfrg/github-archive/workflows/image/badge.svg)](https://github.com/danielfrg/github-archive/actions/workflows/image.yml) |
 
 ## Websites
