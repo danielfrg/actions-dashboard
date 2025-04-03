@@ -4,7 +4,7 @@
 
 | Project | Actions | Package | Docs |
 | --- | --- | --- | --- |
-| [mkdocs-jupyter](https://github.com/danielfrg/mkdocs-jupyter) | [![test](https://github.com/danielfrg/mkdocs-jupyter/actions/workflows/test.yml/badge.svg)](https://github.com/danielfrg/mkdocs-jupyter/actions/workflows/test.yml) | [![pypi](https://img.shields.io/pypi/v/mkdocs-jupyter.svg)](https://pypi.org/project/mkdocs-jupyter/) | [![demo](https://github.com/danielfrg/mkdocs-jupyter/workflows/demo/badge.svg)](https://github.com/danielfrg/mkdocs-jupyter/actions/workflows/demo.yml) [↗](https://mkdocs-jupyter.danielfrg.com) |
+| [mkdocs-jupyter](https://github.com/danielfrg/mkdocs-jupyter) | [![test](https://github.com/danielfrg/mkdocs-jupyter/actions/workflows/test.yml/badge.svg)](https://github.com/danielfrg/mkdocs-jupyter/actions/workflows/test.yml) | [![pypi](https://img.shields.io/pypi/v/mkdocs-jupyter.svg)](https://pypi.org/project/mkdocs-jupyter/) | [![demo](https://github.com/danielfrg/mkdocs-jupyter/workflows/docs/badge.svg)](https://github.com/danielfrg/mkdocs-jupyter/actions/workflows/docs.yml) [↗](https://mkdocs-jupyter.danielfrg.com) |
 | [s3contents](https://github.com/danielfrg/s3contents) | [![build](https://github.com/danielfrg/s3contents/workflows/test/badge.svg)](https://github.com/danielfrg/s3contents/actions/workflows/test.yml) | [![pypi](https://img.shields.io/pypi/v/s3contents.svg)](https://pypi.org/project/s3contents) |
 
 ## Other
